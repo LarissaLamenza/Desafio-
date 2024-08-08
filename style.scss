@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(205, 178, 193);
+    margin: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+ width: 200px; 
+ height: 200px;  
+ border-radius: 50%;
+}
+
+h1{
+color: rgb(138, 34, 138);
+font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    color: black;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    color: rgb(138, 34, 138);
+    background-color: rgb(159, 158, 158);
+}
